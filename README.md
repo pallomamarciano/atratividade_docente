@@ -1,7 +1,7 @@
 # atratividade_docente
 ### Download and Analysis of Brazilian Graduate Students and their High School Performance
 
-ATTENTION!!!
+#### ATTENTION!!!
 
 ALL PATHS USED IN THIS PROJECT ARE BASED ON THE 'R PROJECT'.
 SO, TO HAVE ACCESS TO THE DATA AND THE ANALYSIS WITHOUT THE NEED
@@ -11,7 +11,7 @@ TO INDICATE THE PATH ON YOUR COMPUTER, FOLLOW THE FOLLOWING STEPS:
 - Access the file 'atratatividade_docente.Rproj' or open R and go to 'Open Project' and follow the project folder until opening the file 'atratatividade_docente.Rproj'
 - Open the code files or the files you want
 
-CONTENTS
+#### CONTENTS
 
 - Downloading public data
 
@@ -38,7 +38,7 @@ IDD (years 2014-2019)   : '/clean/idd.csv'
 Enade (years 2014-2019) : '/clean/enade.csv'
 ENEM (years 2014-2019)  : '/clean/enem.csv'
 
-- Files with the metadata:
+Files with the metadata:
 ENEM (years 2014-2019) : '/metadata/enem_dic.xlxs'
 
 Preliminary analysis
