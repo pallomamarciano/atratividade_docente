@@ -1,8 +1,3 @@
-########################################
-#### Projeto "Atratividade Docente" ####
-####### LEPES e Profissão Docente ######
-########################################
-
 
 ###### Etapa: ANÁLISE PRELIMINAR #######
 
@@ -22,12 +17,7 @@ library(wesanderson)
   # Abrir banco
   enem <- read_csv('clean/enem.csv')
   
-  
-  # Pergunta norteadora 1:
-  # Qual o desempenho médio nas avaliações do ensino médio e no ensino 
-  # superior dos estudantes que concluíram cursos de pedagogia e licenciatura
-  # relativamente aos demais egressos?
-  
+ 
     # Codebook grupos de cursos
     grupo <- read.csv("metadata/co_grupo.csv", encoding="LATIN1", sep=";")
     
