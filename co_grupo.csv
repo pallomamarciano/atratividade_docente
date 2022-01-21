@@ -1,0 +1,93 @@
+co_grupo;area_enade;area_nome;area_lic;analise;graph
+1;Administração;Administração;Administração;1;0
+100;Administração Pública;Administração Pública;Administração Pública;0;0
+101;Teologia;Teologia;Teologia;0;0
+102;Tecnologia em Comércio Exterior;Tecnologias;Tecnologias;0;0
+103;Tecnologia em Design de Interiores;Tecnologias;Tecnologias;0;0
+104;Tecnologia em Design Gráfico;Tecnologias;Tecnologias;0;0
+105;Tecnologia em Gestão da Qualidade;Tecnologias;Tecnologias;0;0
+106;Tecnologia em Gestão Pública;Tecnologias;Tecnologias;0;0
+12;Medicina;Medicina;Medicina;1;0
+13;Ciências Econômicas;Ciências Econômicas;Ciências Econômicas;1;0
+1401;Física (Bacharelado);Física (Bacharelado);Física (Bacharelado);0;0
+1402;Física (Licenciatura);Física (Licenciatura);Física;1;1
+1501;Química (Bacharelado);Química (Bacharelado);Química (Bacharelado);0;0
+1502;Química (Licenciatura);Química (Licenciatura);Química;1;1
+1601;Ciências Biológicas (Bacharelado);Ciências Biológicas (Bacharelado);Ciências Biológicas (Bacharelado);0;0
+1602;Ciências Biológicas (Licenciatura);Ciências Biológicas (Licenciatura);Ciências Biológicas;1;1
+17;Agronomia;Agronomia;Agronomia;1;0
+18;Psicologia;Psicologia;Psicologia;1;0
+19;Farmácia;Farmácia;Farmácia;1;0
+2;Direito;Direito;Direito;1;0
+2001;Pedagogia (Licenciatura);Pedagogia (Licenciatura);Pedagogia;1;1
+21;Arquitetura e Urbanismo;Arquitetura e Urbanismo;Arquitetura e Urbanismo;1;0
+22;Ciências Contábeis;Ciências Contábeis;Ciências Contábeis;1;0
+23;Enfermagem;Enfermagem;Enfermagem;1;0
+2401;História (Bacharelado);História (Bacharelado);História (Bacharelado);1;0
+2402;História (Licenciatura);História (Licenciatura);História;0;1
+2501;Artes Visuais (Licenciatura);Artes Visuais (Licenciatura);Artes Visuais;0;0
+26;Design;Design;Design;0;0
+27;Fonoaudiologia;Fonoaudiologia;Fonoaudiologia;0;0
+28;Nutrição;Nutrição;Nutrição;0;0
+29;Turismo;Turismo;Turismo;0;0
+3001;Geografia (Bacharelado);Geografia (Bacharelado);Geografia (Bacharelado);0;0
+3002;Geografia (Licenciatura);Geografia (Licenciatura);Geografia;1;1
+3201;Filosofia (Bacharelado);Filosofia (Bacharelado);Filosofia (Bacharelado);0;0
+3202;Filosofia (Licenciatura);Filosofia (Licenciatura);Filosofia;1;1
+3501;Educação Física (Bacharelado);Educação Física (Bacharelado);Educação Física (Bacharelado);0;0
+3502;Educação Física (Licenciatura);Educação Física (Licenciatura);Educação Física;1;1
+36;Fisioterapia;Fisioterapia;Fisioterapia;1;0
+38;Serviço Social;Serviço Social;Serviço Social;1;0
+4003;Engenharia da Computação;Engenharias;Engenharias;0;0
+4004;Ciência da Computação (Bacharelado);Ciência da Computação (Bacharelado);Ciência da Computação (Bacharelado);1;0
+4005;Ciência da Computação (Licenciatura);Ciência da Computação (Licenciatura);Ciência da Computação;0;0
+4006;Sistemas de Informação;Sistemas de Informação;Sistemas de Informação;0;0
+4301;Música (Licenciatura);Música (Licenciatura);Música;0;0
+5;Medicina Veterinária;Medicina Veterinária;Medicina Veterinária;1;0
+51;Zootecnia;Zootecnia;Zootecnia;1;0
+5401;Ciências Sociais (Bacharelado);Ciências Sociais (Bacharelado);Ciências Sociais (Bacharelado);1;0
+5402;Ciências Sociais (Licenciatura);Ciências Sociais (Licenciatura);Ciências Sociais;0;1
+55;Biomedicina;Biomedicina;Biomedicina;1;0
+5710;Engenharia Civil;Engenharias;Engenharias;0;0
+5806;Engenharia Elétrica;Engenharias;Engenharias;0;0
+5809;Engenharia de Computação;Engenharias;Engenharias;0;0
+5814;Engenharia de Controle e Automação;Engenharias;Engenharias;0;0
+5902;Engenharia Mecânica;Engenharias;Engenharias;0;0
+6;Odontologia;Odontologia;Odontologia;1;0
+6002;Engenharia de Alimentos;Engenharias;Engenharias;0;0
+6008;Engenharia Química;Engenharias;Engenharias;0;0
+6009;Engenharia de Alimentos;Engenharias;Engenharias;0;0
+6208;Engenharia de Produção;Engenharias;Engenharias;0;0
+6306;Engenharia;Engenharias;Engenharias;0;0
+6307;Engenharia Ambiental;Engenharias;Engenharias;0;0
+6405;Engenharia Florestal;Engenharias;Engenharias;0;0
+6407;Letras - Inglês;Letras - Inglês;Letras - Inglês;1;0
+6409;Tecnologia em Gestão da Tecnologia da Informação;Tecnologias;Tecnologias;0;0
+6410;Tecnologia em Segurança no Trabalho;Tecnologias;Tecnologias;0;0
+67;Secretariado Executivo;Secretariado Executivo;Secretariado Executivo;0;0
+69;Tecnologia em Radiologia;Tecnologias;Tecnologias;0;0
+701;Matemática (Bacharelado);Matemática (Bacharelado);Matemática (Bacharelado);0;0
+702;Matemática (Licenciatura);Matemática (Licenciatura);Matemática;1;1
+72;Tecnologia em Análise e Desenvolvimento de Sistemas;Tecnologias;Tecnologias;0;0
+73;Tecnologia em Automação Industrial;Tecnologias;Tecnologias;0;0
+76;Tecnologia em Gestão da Produção Industrial;Tecnologias;Tecnologias;0;0
+79;Tecnologia em Redes de Computadores;Tecnologias;Tecnologias;0;0
+803;Comunicação Social - Jornalismo;Comunicação Social - Jornalismo;Jornalismo;1;0
+804;Comunicação Social - Publicidade e Propaganda;Comunicação Social - Publicidade e Propaganda;Publicidade e Propaganda;1;0
+81;Relações Internacionais;Relações Internacionais;Relações Internacionais;0;0
+83;Tecnologia em Design de Moda;Tecnologias;Tecnologias;0;0
+84;Tecnologia em Marketing;Tecnologias;Tecnologias;0;0
+85;Tecnologia em Processos Gerenciais;Tecnologias;Tecnologias;0;0
+86;Tecnologia em Gestão de Recursos Humanos;Tecnologias;Tecnologias;0;0
+87;Tecnologia em Gestão Financeira;Tecnologias;Tecnologias;0;0
+88;Tecnologia em Gastronomia;Tecnologias;Tecnologias;0;0
+90;Tecnologia em Agronegócios;Tecnologias;Tecnologias;0;0
+903;Letras-Português (Bacharelado);Letras-Português (Bacharelado);Letras-Português (Bacharelado);0;0
+904;Letras-Português (Licenciatura);Letras-Português (Licenciatura);Letras-Português;1;1
+905;Letras-Português e Inglês (Licenciatura);Letras-Português e Inglês (Licenciatura);Letras-Português e Inglês;1;1
+906;Letras-Português e Espanhol (Licenciatura);Letras-Português e Espanhol (Licenciatura);Letras-Português e Espanhol;1;1
+91;Tecnologia em Gestão Hospitalar;Tecnologias;Tecnologias;0;0
+92;Tecnologia em Gestão Ambiental;Tecnologias;Tecnologias;0;0
+93;Tecnologia em Gestão Comercial;Tecnologias;Tecnologias;0;0
+94;Tecnologia em Logística;Tecnologias;Tecnologias;0;0
+95;Tecnologia em Estética e Cosmética;Tecnologias;Tecnologias;0;0
