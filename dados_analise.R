@@ -19,7 +19,7 @@ library(wesanderson)
   
  
     # Codebook grupos de cursos
-    grupo <- read.csv("metadata/co_grupo.csv", encoding="LATIN1", sep=";")
+    grupo <- read.csv("co_grupo.csv", encoding="LATIN1", sep=";")
     
     # Juntando bancos
     db <- enem %>% 
