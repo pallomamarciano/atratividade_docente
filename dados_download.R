@@ -1,8 +1,3 @@
-########################################
-#### Projeto "Atratividade Docente" ####
-####### LEPES e Profissão Docente ######
-########################################
-
 
 ## Etapa: DOWNLOAD DE DADOS PÚBLICOS ##
 
