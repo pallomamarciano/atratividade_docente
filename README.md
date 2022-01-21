@@ -15,12 +15,12 @@ CONTENTS
 
 - Downloading public data
 
-- data cleaning
+- Data cleaning
 
 - Analysis
 
 
-- Downloading public data
+Downloading public data
 Access to data from ENEM, ENADE, Higher Education School Census, SAEB
 Code:'/code/data_download.R'
 Files with the original bases:
@@ -29,7 +29,7 @@ IDD   (years 2014-2019) : '/raw/idd'
 Enade (years 2014-2019) : '/raw/enade'
 
 
-- Data cleaning
+Data cleaning
 Access to the clean bases of ENEM, ENADE, Higher Education School Census, SAEB
 Code:'/code/data_limpeza.R'
 
@@ -39,9 +39,9 @@ Enade (years 2014-2019) : '/clean/enade.csv'
 ENEM (years 2014-2019)  : '/clean/enem.csv'
 
 - Files with the metadata:
-  - ENEM (years 2014-2019) : '/metadata/enem_dic.xlxs'
+ENEM (years 2014-2019) : '/metadata/enem_dic.xlxs'
 
-. Preliminary analysis
+Preliminary analysis
 Access to preliminary analyzes of ENEM and ENADE
 Code    :'code/data_analysis.R'
 Analysis: 'Analysis20220119.docx'
